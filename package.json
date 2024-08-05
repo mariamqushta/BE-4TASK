@@ -1,0 +1,17 @@
+{
+  "name": "be-task5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "3t": "^1.0.0",
+    "mongodb": "^4.17.2",
+    "robo": "^0.3.0"
+  }
+}
